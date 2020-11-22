@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>CrumbActions</OriginalElement>
+  <nodes>
+    <node x="434.8045634920636" y="562.0">Human</node>
+    <node x="1134.6418650793653" y="518.0">Seeds</node>
+    <node x="993.1021825396825" y="843.5">Foodlesses</node>
+    <node x="789.1021825396825" y="876.5">Driver</node>
+    <node x="990.6418650793653" y="12.0">java.io.Serializable</node>
+    <node x="313.0" y="888.0">Donut</node>
+    <node x="1214.1021825396824" y="898.5">Plant</node>
+    <node x="1020.6418650793653" y="104.0">java.lang.Enum</node>
+    <node x="234.8045634920636" y="618.0">DonutActions</node>
+    <node x="0.0" y="876.5">Car</node>
+    <node x="690.0982142857143" y="563.0">CrumbActions</node>
+    <node x="1152.6418650793653" y="0.0">java.lang.Comparable</node>
+    <node x="520.8045634920636" y="1145.0">Main</node>
+    <node x="555.1021825396825" y="822.0">Crumb</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Crumb" target="CrumbActions">
+      <point x="71.33333333333326" y="-126.5" />
+      <point x="733.4355158730158" y="797.0" />
+      <point x="786.0982142857143" y="797.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.lang.Comparable">
+      <point x="69.99999999999994" y="-182.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Crumb" target="Human">
+      <point x="-71.33333333333326" y="-126.5" />
+      <point x="590.7688492063493" y="797.0" />
+      <point x="569.8045634920636" y="797.0" />
+      <point x="27.0" y="83.0" />
+    </edge>
+    <edge source="Donut" target="Human">
+      <point x="70.0" y="-60.5" />
+      <point x="488.0" y="797.0" />
+      <point x="515.8045634920636" y="797.0" />
+      <point x="-27.0" y="83.0" />
+    </edge>
+    <edge source="Donut" target="DonutActions">
+      <point x="-70.0" y="-60.5" />
+      <point x="348.0" y="797.0" />
+      <point x="324.8045634920636" y="797.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="Seeds" target="java.lang.Enum">
+      <point x="0.0" y="-127.0" />
+      <point x="69.99999999999994" y="182.0" />
+    </edge>
+    <edge source="java.lang.Enum" target="java.io.Serializable">
+      <point x="-70.00000000000006" y="-182.0" />
+      <point x="1090.6418650793653" y="79.0" />
+      <point x="1061.6418650793653" y="79.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6365873666940115" x="684.0" y="599.5" />
+  <SelectedNodes>
+    <node>CrumbActions</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
